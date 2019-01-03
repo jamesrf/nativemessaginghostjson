@@ -7,12 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeMessagingHostJSON", "
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BDC333-C28D-4566-AFF6-58E266898E00}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{A7BDC333-C28D-4566-AFF6-58E266898E00}.Debug|x86.ActiveCfg = Debug|x86
 		{A7BDC333-C28D-4566-AFF6-58E266898E00}.Debug|x86.Build.0 = Debug|x86
+		{A7BDC333-C28D-4566-AFF6-58E266898E00}.Release|Any CPU.ActiveCfg = Release|x86
 		{A7BDC333-C28D-4566-AFF6-58E266898E00}.Release|x86.ActiveCfg = Release|x86
 		{A7BDC333-C28D-4566-AFF6-58E266898E00}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
